@@ -1,0 +1,25 @@
+REACT bootstrap
+---------------
+* for using react bootstrap :
+
+    - npm install react-bootstrap bootstrap
+
+FONT AWESOME
+------------
+
+link = <script src="https://kit.fontawesome.com/d70a56ed2f.js" crossorigin="anonymous"></script>
+
+SPLICE
+------
+
+* to remove element from array
+
+         -splice(index,hawmany,item1,....)
+
+* indexof()  -  function to find index of array.
+ -----------
+
+ uuid
+ ----
+
+ *  universal unique identifiers for react projects
